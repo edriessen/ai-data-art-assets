@@ -1,5 +1,7 @@
 # Creating assets for data art using AI
 
+## Summary
+
 Applying various AI methodologies to generate abstract visuals. These visuals can be used to create small art pieces. 
 
 ## Background
