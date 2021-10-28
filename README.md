@@ -6,7 +6,7 @@ Applying various AI methodologies to generate abstract visuals. These visuals ca
 
 I’ve been working on an open data art project. In the project, I use the sentiment analysis in Google’s Natural Language API to turn music lyrics into data. After that, I use data visualisation to turn the data into abstract shapes. Here’s an example of a visual generated from the data of Avicii’s TIM (his death was the starting point of my project back in 2018):
 
-![image of base project]('/building ai image.png')
+![image of base project](/building%20ai%20image.png)
 
 [Building AI](https://buildingai.elementsofai.com/) showed me some easy-to-understand examples of how I can apply AI. Besides improving my AI knowledge, which I think improves my skills as a business analyst, it also inspired me to apply some new techniques to my open data art project. 
  
